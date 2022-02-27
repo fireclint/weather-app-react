@@ -19,6 +19,9 @@ function App() {
 
   return (
     <div className="app">
+      <div className="head">
+        <h2>Devsuite Weather App</h2>
+      </div>
       <div className="search">
         <input
           value={location}
