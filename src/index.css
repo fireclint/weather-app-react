@@ -98,6 +98,11 @@ h1 {
   font-weight: 700;
 }
 
+.btn{
+  border-radius: 50px;
+  background-color: darkslategrey;
+  color: black;
+}
 
 
 
