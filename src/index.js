@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './openweather.css';
+import OpenWeather from './OpenWeather';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <OpenWeather />
   </React.StrictMode>,
   document.getElementById('root')
 );
